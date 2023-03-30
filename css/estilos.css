@@ -91,7 +91,7 @@ body{
 /* Section */
 
 .twitterImg{
-    height: 30px;
+    height: 30px !important;
 }
 
 .website{
