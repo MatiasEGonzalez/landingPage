@@ -214,6 +214,13 @@ body{
 
 /* footer */
 
+.redes{
+    
+    display: flex;
+    justify-content: center;
+}
+
+
 footer{
     background: #f5576c;
     color: #fff;
